@@ -1,0 +1,6 @@
+debug/
+release/
+test/build
+*.o
+*~
+
